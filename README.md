@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Deborah9494/Deborah9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Deborah! 👋
 
-Here are some ideas to get you started:
+### Web Developer | Computer Science Teacher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Web Developer with a Master's degree in Computer Science, specialising in Data Science, and professional experience in web development and IT education.
+
+I enjoy building web applications, solving problems and continuously learning new technologies.
+
+### 💻 About Me
+
+- 🎓 Master's degree in Computer Science – University of Trento.
+- 💼 Experience in Web Development, Web Analytics and IT Education.
+- 🐍 Experience with Python, PHP and JavaScript.
+- 🔍 Interested in Frontend Development and Full-Stack Development.
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+Python · JavaScript · PHP · SQL · HTML · CSS
+
+**Frameworks & Libraries**
+
+React · FastAPI · Symfony · Odoo · Django
+
+**Databases**
+
+MariaDB · MySQL · PostgreSQL
+
+**Tools**
+
+Git · GitHub · Docker · Google Analytics · Google Tag Manager · Google Workspace
