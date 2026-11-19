@@ -31,3 +31,15 @@ MariaDB · MySQL · PostgreSQL
 **Tools**
 
 Git · GitHub · Docker · Google Analytics · Google Tag Manager · Google Workspace
+
+
+### 🌐 Projects & Online Presence
+
+- **[Foglio Facile](https://debodev.altervista.org/)** – An educational blog
+  dedicated to Google Sheets, computer skills and digital tools,
+  with practical guides and tutorials for beginners.
+
+- **[Battleship Game](https://github.com/Deborah9494/battleship-game)** –
+  A browser-based Battleship game developed using HTML, CSS and JavaScript.
+  [Live Demo](https://deborah9494.github.io/battleship-game/)
+
