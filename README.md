@@ -44,7 +44,7 @@ Git · GitHub · Docker · Google Analytics · Google Tag Manager · Google Work
   [Live Demo](https://deborah9494.github.io/battleship-game/)
 
 - **[Easy Library](https://github.com/Deborah9494/library_fastapi_react)** –
-    A full-stack library management application developed using React, FastAPI (Python) and MariaDB. Features include book, author and genre management, search, filtering, pagination and file uploads, with a REST API connecting the frontend to the database.
+  A full-stack library management application developed using React, FastAPI (Python) and MariaDB. Features include book, author and genre management, search, filtering, pagination and file uploads, with a REST API connecting the frontend to the database.
 
-  - **[Odoo Learning Project](https://github.com/Deborah9494/odoo-learning-project)** –
-    A hands-on Odoo 17 development project focused on learning the Odoo framework and building custom modules using Python, XML and JavaScript. Includes a custom To-Do management application and practical exercises covering models, views, server-side logic and the web framework.
+- **[Odoo Learning Project](https://github.com/Deborah9494/odoo-learning-project)** –
+  A hands-on Odoo 17 development project focused on learning the Odoo framework and building custom modules using Python, XML and JavaScript. Includes a custom To-Do management application and practical exercises covering models, views, server-side logic and the web framework.
